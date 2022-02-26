@@ -18,3 +18,7 @@
 > 3. Enter the product name for which you want to see the maximum total sales
 > 4. Enter 'Y' to exit the code.
 
+## Sample Screenshot
+
+> ![App Screenshot](https://github.com/pulkitmunjral/ActMobileAssessment/blob/main/Sample.PNG)
+
