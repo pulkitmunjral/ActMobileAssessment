@@ -52,7 +52,7 @@ while True:
         Country = Country_list[Sales_list.index(max_sales)]
 
         # Printing the country name with maximum sales for user selected product.
-        print(f"Product '{user_input_product}' had it's maximum sales of {max_sales}$ in ==> {Country}.")
+        print(f"\nProduct '{user_input_product}' had it's maximum sales of {max_sales}$ in ==> {Country}.\n\n")
 
     # If the user selected product is not present in our products dictionary we ask user to try again.
     else:
