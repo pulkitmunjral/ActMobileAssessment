@@ -16,7 +16,8 @@
 > 1. Clone the [repositiory](https://github.com/pulkitmunjral/ActMobileAssessment.git).
 > 2. Run the file ActAssessment.py
 > 3. Enter the product name for which you want to see the maximum total sales
-> 4. Enter 'Y' to exit the code.
+> 4. If the user enter a product which is not present in database, a valid error message is displayed asking user to try again.
+> 5. Enter 'Y' to exit the code.
 
 ## Sample Screenshot
 
